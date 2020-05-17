@@ -5,9 +5,9 @@
   <subtitle>K. Bradleys Online Personal Portfolio</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://kevbradley.ca/"/>
+  <link href="KBradley-n3.github.io/"/>
   <updated>2020-05-16T15:12:21.339Z</updated>
-  <id>http://kevbradley.ca/</id>
+  <id>KBradley-n3.github.io/</id>
   
   <author>
     <name>K. Bradley</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>About HttB (Placeholder)</title>
-    <link href="http://kevbradley.ca/2020/05/14/About-HttB/"/>
-    <id>http://kevbradley.ca/2020/05/14/About-HttB/</id>
+    <link href="2020/05/14/About-HttB/"/>
+    <id>2020/05/14/About-HttB/</id>
     <published>2020-05-15T00:27:21.000Z</published>
     <updated>2020-05-16T15:12:21.339Z</updated>
     
@@ -35,50 +35,50 @@
     </summary>
     
     
-      <category term="Computers" scheme="http://kevbradley.ca/categories/Computers/"/>
+      <category term="Computers" scheme="KBradley-n3.github.io/categories/Computers/"/>
     
-      <category term="General" scheme="http://kevbradley.ca/categories/Computers/General/"/>
+      <category term="General" scheme="KBradley-n3.github.io/categories/Computers/General/"/>
     
-      <category term="Hacking" scheme="http://kevbradley.ca/categories/Computers/Hacking/"/>
+      <category term="Hacking" scheme="KBradley-n3.github.io/categories/Computers/Hacking/"/>
     
-      <category term="HTB" scheme="http://kevbradley.ca/categories/Computers/HTB/"/>
+      <category term="HTB" scheme="KBradley-n3.github.io/categories/Computers/HTB/"/>
     
-      <category term="Programming" scheme="http://kevbradley.ca/categories/Computers/Programming/"/>
+      <category term="Programming" scheme="KBradley-n3.github.io/categories/Computers/Programming/"/>
     
-      <category term="Security" scheme="http://kevbradley.ca/categories/Computers/Security/"/>
+      <category term="Security" scheme="KBradley-n3.github.io/categories/Computers/Security/"/>
     
-      <category term="Health" scheme="http://kevbradley.ca/categories/Health/"/>
+      <category term="Health" scheme="KBradley-n3.github.io/categories/Health/"/>
     
-      <category term="Mental Health" scheme="http://kevbradley.ca/categories/Health/Mental-Health/"/>
+      <category term="Mental Health" scheme="KBradley-n3.github.io/categories/Health/Mental-Health/"/>
     
-      <category term="Physical Health" scheme="http://kevbradley.ca/categories/Health/Physical-Health/"/>
+      <category term="Physical Health" scheme="KBradley-n3.github.io/categories/Health/Physical-Health/"/>
     
-      <category term="Mobile" scheme="http://kevbradley.ca/categories/Mobile/"/>
+      <category term="Mobile" scheme="KBradley-n3.github.io/categories/Mobile/"/>
     
-      <category term="Android" scheme="http://kevbradley.ca/categories/Mobile/Android/"/>
+      <category term="Android" scheme="KBradley-n3.github.io/categories/Mobile/Android/"/>
     
-      <category term="iOS" scheme="http://kevbradley.ca/categories/Mobile/iOS/"/>
+      <category term="iOS" scheme="KBradley-n3.github.io/categories/Mobile/iOS/"/>
     
-      <category term="Photography" scheme="http://kevbradley.ca/categories/Photography/"/>
+      <category term="Photography" scheme="KBradley-n3.github.io/categories/Photography/"/>
     
-      <category term="Digital" scheme="http://kevbradley.ca/categories/Photography/Digital/"/>
+      <category term="Digital" scheme="KBradley-n3.github.io/categories/Photography/Digital/"/>
     
-      <category term="General" scheme="http://kevbradley.ca/categories/Photography/General/"/>
+      <category term="General" scheme="KBradley-n3.github.io/categories/Photography/General/"/>
     
-      <category term="Gear" scheme="http://kevbradley.ca/categories/Photography/Gear/"/>
+      <category term="Gear" scheme="KBradley-n3.github.io/categories/Photography/Gear/"/>
     
-      <category term="Pool Systems" scheme="http://kevbradley.ca/categories/Pool-Systems/"/>
+      <category term="Pool Systems" scheme="KBradley-n3.github.io/categories/Pool-Systems/"/>
     
-      <category term="Music" scheme="http://kevbradley.ca/categories/Music/"/>
+      <category term="Music" scheme="KBradley-n3.github.io/categories/Music/"/>
     
-      <category term="Gear" scheme="http://kevbradley.ca/categories/Music/Gear/"/>
+      <category term="Gear" scheme="KBradley-n3.github.io/categories/Music/Gear/"/>
     
-      <category term="Reviews" scheme="http://kevbradley.ca/categories/Music/Reviews/"/>
+      <category term="Reviews" scheme="KBradley-n3.github.io/categories/Music/Reviews/"/>
     
-      <category term="Software" scheme="http://kevbradley.ca/categories/Music/Software/"/>
+      <category term="Software" scheme="KBradley-n3.github.io/categories/Music/Software/"/>
     
     
-      <category term="Introduction" scheme="http://kevbradley.ca/tags/Introduction/"/>
+      <category term="Introduction" scheme="KBradley-n3.github.io/tags/Introduction/"/>
     
   </entry>
   
