@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hack to the Basics</title>
+  
+  <subtitle>K. Bradleys Online Personal Portfolio</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://kevbradley.ca/"/>
+  <updated>2020-05-16T15:12:21.339Z</updated>
+  <id>http://kevbradley.ca/</id>
+  
+  <author>
+    <name>K. Bradley</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About HttB (Placeholder)</title>
+    <link href="http://kevbradley.ca/2020/05/14/About-HttB/"/>
+    <id>http://kevbradley.ca/2020/05/14/About-HttB/</id>
+    <published>2020-05-15T00:27:21.000Z</published>
+    <updated>2020-05-16T15:12:21.339Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="So-what-is-this-all-about"><a href="#So-what-is-this-all-about" class="headerlink" title="So what is this all about?"></a><strong><em>So what is this all about?</em></strong></h2><p><strong>Hack to the Basics (HttB)</strong> is a <strong>Github</strong> hosted blog created with <strong>Atom, Git, NodeJS, Hexo and 3-Hexo</strong>. It has been built and sculpted with the primary intention of being used as a writing outlet for its author, <a href='http://localhost:4000' target="_blank" rel="noopener">K. Bradley.</a> - One that will not only allow him to track the broad range of self-taught skills he is dedicating time to - but also as a way to give back to others who may find the topics of interest.</p><p>The blog title <strong>Hack to the Basics</strong>, which is a run on the phrase ‘Back to the Basics’, was chosen for two reasons:</p><blockquote><ul><li>A lot of the content found within will focus on the computer security / ‘hacking’ field   </li><li>The content is written with the intent that it will be fairly easy to ‘digest’</li></ul></blockquote><p>Given the primary intention is to promote self-taught skills in the form of genuine content, this blogs secondary intention is to serve as an online portfolio.</p><h2 id="Navigating"><a href="#Navigating" class="headerlink" title="Navigating"></a><strong><em>Navigating</em></strong></h2><p>The blog is split into <strong>three</strong> main sections when visiting from a computer, and <strong>two</strong> main sections if visiting from mobile. A simple explanation on navigating these sections is found below.</p><h3 id="1-Left-Navigation-Panel-Top-Panel"><a href="#1-Left-Navigation-Panel-Top-Panel" class="headerlink" title="1. Left Navigation Panel / Top Panel"></a><strong>1. Left Navigation Panel / Top Panel</strong></h3><p><img src="lnav.jpg" alt="Navigation Panel"><br>The dark blue panel located on the left side of the screen for those visiting from a computer could be considered the main navigation panel. By clicking on my picture, you will be directed to a page about myself. Underneath my name are icons which will link you to various social media accounts I own.</p><p>Beneath the icons is the main menu &amp; sub menus. <strong>Please note that the main menu &amp; sub menu does not exist when visiting from a mobile device.</strong>  </p><p>Clicking on a menu category will open a list of more specific sub categories. After clicking on one of these sub categories, a list of articles fitting this category will load in the <strong>Article Panel</strong>.</p><h3 id="2-Article-Panel"><a href="#2-Article-Panel" class="headerlink" title="2. Article Panel"></a><strong>2. Article Panel</strong></h3><p><img src="anav.jpg" alt="Article Panel"><br>Directly to the right side of the Navigation Panel is the Article Panel. On mobile, this is shown as the lower 70% of the page. This is the panel articles will populate in depending on:</p><blockquote><ul><li>The menu / sub menu category chosen</li><li>Searched <strong>tags</strong></li></ul></blockquote><p>So what are tags? Each article I create is categorized and sub categorized. Tags are used for two reasons:</p><blockquote><ul><li>To add a method to search articles on mobile</li><li>To add a more specific method to searching</li></ul></blockquote><p>All articles will be given tags with the same category names, but built upon even farther. If I write an article on programming in python, it would make sense you could find this in the <strong>Computers -&gt; Programming</strong> sub category. As such, it will also be tagged as <strong>Computers</strong> and <strong>Programming</strong>. Additionally, it will be tagged as <strong>Python</strong>.</p><p>The rationale, as noted above, is as articles become more abundant, it will make navigating them easier. Within the article panel, you will notice at the top right corner there is a <strong>tags</strong> button. Clicking that on computer or mobile will open a <strong>Search</strong> box. You can then search through the <strong>current category</strong> articles with tags of your choice.</p><p>A small arrow will show midway down on the right side of the Article Panel when hovering over it with a mouse. Clicking this arrow will minimize both the Navigation Panel and Article Panel, dedicating the entire screen to the <strong>Content Window</strong>.</p><p>Note that because mobile does not have a menu, the blog defaults the category chosen to <strong>all</strong>. So searching for articles on mobile via the tag search will always search all posted articles. On a computer, it will only search the currently selected category or sub category.</p><h3 id="3-Content-Window"><a href="#3-Content-Window" class="headerlink" title="3. Content Window"></a><strong>3. Content Window</strong></h3><p><img src="cnav.jpg" alt="Content Window icons"><br>The content window will display any content you have chosen by means explained above. Notice the two icons on the top-right corner. The top icon will expand the content window.<br><img src="cnav2.jpg" alt="Content Window; Table of Contents"><br>The second icon will generate a <strong>Table of Contents</strong> for the currently loaded article. You can use this to skip around each article more efficiently.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;So-what-is-this-all-about&quot;&gt;&lt;a href=&quot;#So-what-is-this-all-about&quot; class=&quot;headerlink&quot; title=&quot;So what is this all about?&quot;&gt;&lt;/a&gt;&lt;strong&gt;&lt;e
+      
+    
+    </summary>
+    
+    
+      <category term="Computers" scheme="http://kevbradley.ca/categories/Computers/"/>
+    
+      <category term="General" scheme="http://kevbradley.ca/categories/Computers/General/"/>
+    
+      <category term="Hacking" scheme="http://kevbradley.ca/categories/Computers/Hacking/"/>
+    
+      <category term="HTB" scheme="http://kevbradley.ca/categories/Computers/HTB/"/>
+    
+      <category term="Programming" scheme="http://kevbradley.ca/categories/Computers/Programming/"/>
+    
+      <category term="Security" scheme="http://kevbradley.ca/categories/Computers/Security/"/>
+    
+      <category term="Health" scheme="http://kevbradley.ca/categories/Health/"/>
+    
+      <category term="Mental Health" scheme="http://kevbradley.ca/categories/Health/Mental-Health/"/>
+    
+      <category term="Physical Health" scheme="http://kevbradley.ca/categories/Health/Physical-Health/"/>
+    
+      <category term="Mobile" scheme="http://kevbradley.ca/categories/Mobile/"/>
+    
+      <category term="Android" scheme="http://kevbradley.ca/categories/Mobile/Android/"/>
+    
+      <category term="iOS" scheme="http://kevbradley.ca/categories/Mobile/iOS/"/>
+    
+      <category term="Photography" scheme="http://kevbradley.ca/categories/Photography/"/>
+    
+      <category term="Digital" scheme="http://kevbradley.ca/categories/Photography/Digital/"/>
+    
+      <category term="General" scheme="http://kevbradley.ca/categories/Photography/General/"/>
+    
+      <category term="Gear" scheme="http://kevbradley.ca/categories/Photography/Gear/"/>
+    
+      <category term="Pool Systems" scheme="http://kevbradley.ca/categories/Pool-Systems/"/>
+    
+      <category term="Music" scheme="http://kevbradley.ca/categories/Music/"/>
+    
+      <category term="Gear" scheme="http://kevbradley.ca/categories/Music/Gear/"/>
+    
+      <category term="Reviews" scheme="http://kevbradley.ca/categories/Music/Reviews/"/>
+    
+      <category term="Software" scheme="http://kevbradley.ca/categories/Music/Software/"/>
+    
+    
+      <category term="Introduction" scheme="http://kevbradley.ca/tags/Introduction/"/>
+    
+  </entry>
+  
+</feed>
